@@ -7781,3 +7781,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.14-10.53.34:157][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2020.09.14-10.53.34:216][641]AssetCheck: New page: Asset Save: vaporbg_Mat
 [2020.09.14-10.53.34:216][641]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/vaporbg_Mat.vaporbg_Mat
+[2020.09.14-10.54.01:604][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.09.14-10.54.02:276][862]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/VehicleAdvExampleMap_Auto138D98A9141F343FEDA6659B59F524CAD.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2020.09.14-10.54.02:280][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.752
+[2020.09.14-10.54.02:280][862]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.752
+[2020.09.14-10.54.11:430][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.09.14-10.54.11:931][176]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/VehicleAdvExampleMap3F0E4C5A47BD7BA44AB898BF44C7F051.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.09.14-10.54.13:392][176]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/VehicleAdvExampleMap_BuiltData06F023B3416BF55C0C235BA1AB066C93.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.09.14-10.54.13:449][176]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.14-10.54.13:449][176]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.09.14-10.54.13:449][176]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.09.14-10.54.26:781][595]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.09.14-10.54.26:863][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdv/Materials/MasterGrid" FILE="C:/Users/aidan/Documents/COMP313/drive/Drive/Content/VehicleAdv/Materials/MasterGrid.uasset" SILENT=true
+[2020.09.14-10.54.26:906][595]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/MasterGrid373F8398486AA8016E5B68AFFF6E3B8F.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/VehicleAdv/Materials/MasterGrid.uasset'
+[2020.09.14-10.54.26:921][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrackAssets/CityCircuit/CityRoad_Mat" FILE="C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/CityRoad_Mat.uasset" SILENT=true
+[2020.09.14-10.54.26:958][595]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/CityRoad_MatD162A24F4496D58933A240894CEB6DBF.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/CityRoad_Mat.uasset'
+[2020.09.14-10.54.26:968][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrackAssets/CityCircuit/lampost" FILE="C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/lampost.uasset" SILENT=true
+[2020.09.14-10.54.26:993][595]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/lampost1638701D4684E809E5B1898A80CD9214.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/lampost.uasset'
+[2020.09.14-10.54.27:006][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrackAssets/CityCircuit/lampost_model" FILE="C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/lampost_model.uasset" SILENT=true
+[2020.09.14-10.54.27:026][595]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/lampost_model585018E5410A7F7237D85A82085E1DD6.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/lampost_model.uasset'
+[2020.09.14-10.54.27:132][595]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.14-10.54.27:132][595]LogContentValidation: Display: Validating Material /Game/VehicleAdv/Materials/MasterGrid.MasterGrid
+[2020.09.14-10.54.27:132][595]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/CityRoad_Mat.CityRoad_Mat
+[2020.09.14-10.54.27:132][595]LogContentValidation: Display: Validating StaticMesh /Game/TrackAssets/CityCircuit/lampost_model.lampost_model
