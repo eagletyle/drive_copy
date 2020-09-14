@@ -7683,3 +7683,101 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.14-10.07.05:704][122]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.14-10.07.05:704][122]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
 [2020.09.14-10.07.05:704][122]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.09.14-10.52.08:264][441]LogSlate: Window 'Message Log' being destroyed
+[2020.09.14-10.52.08:279][441]LogSlate: Window 'Message Log' being destroyed
+[2020.09.14-10.52.49:887][618]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/4kcity72526F5F45C998703F67D79A5EC961A2.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/4kcity.uasset'
+[2020.09.14-10.52.50:463][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.09.14-10.52.50:550][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.09.14-10.52.50:595][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.09.14-10.52.50:712][618]AssetCheck: New page: Asset Save: 4kcity
+[2020.09.14-10.52.50:712][618]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/4kcity.4kcity
+[2020.09.14-10.52.53:463][710]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/bgpossible8815D5C8495929DE5703E39D681B89CC.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/bgpossible.uasset'
+[2020.09.14-10.52.53:882][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.09.14-10.52.53:960][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.09.14-10.52.54:004][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.14-10.52.54:064][710]AssetCheck: New page: Asset Save: bgpossible
+[2020.09.14-10.52.54:064][710]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/bgpossible.bgpossible
+[2020.09.14-10.52.56:747][785]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/bgpossible_Mat89593F864C1F766A6CF2CBAF985D652D.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/bgpossible_Mat.uasset'
+[2020.09.14-10.52.56:750][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrackAssets/CityCircuit/bgpossible_Mat" FILE="C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/bgpossible_Mat.uasset" SILENT=true
+[2020.09.14-10.52.56:760][785]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/bgpossible_Mat75EE20284705ED8EFBEDB98C6F734282.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/bgpossible_Mat.uasset'
+[2020.09.14-10.52.56:899][785]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.14-10.52.56:899][785]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/bgpossible_Mat.bgpossible_Mat
+[2020.09.14-10.52.56:899][785]LogContentValidation: Display: Validating ObjectRedirector /Game/TrackAssets/CityCircuit/bgpossible_Mat.bgpossible_Mat
+[2020.09.14-10.52.58:383][832]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/4kcity_Mat6C218E27447130842C9D23ACA5CD9CD0.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/4kcity_Mat.uasset'
+[2020.09.14-10.52.58:830][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.09.14-10.52.58:909][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.09.14-10.52.58:954][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.14-10.52.59:041][832]AssetCheck: New page: Asset Save: 4kcity_Mat
+[2020.09.14-10.52.59:041][832]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/4kcity_Mat.4kcity_Mat
+[2020.09.14-10.53.00:687][870]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/building_windowsA582BB4D452AA9A8E6CF02870ECA0571.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/building_windows.uasset'
+[2020.09.14-10.53.01:311][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.09.14-10.53.01:421][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.09.14-10.53.01:473][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.14-10.53.01:536][870]AssetCheck: New page: Asset Save: building_windows
+[2020.09.14-10.53.01:536][870]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/building_windows.building_windows
+[2020.09.14-10.53.03:363][922]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/building_windows_MatC9778F4F44595198BD6FA2A56D22F2D1.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/building_windows_Mat.uasset'
+[2020.09.14-10.53.03:794][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.09.14-10.53.03:869][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.09.14-10.53.03:913][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.09.14-10.53.03:976][922]AssetCheck: New page: Asset Save: building_windows_Mat
+[2020.09.14-10.53.03:976][922]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/building_windows_Mat.building_windows_Mat
+[2020.09.14-10.53.05:666][974]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/cartoonbuildingsF2C7930E4959EB800A65899841B88948.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/cartoonbuildings.uasset'
+[2020.09.14-10.53.06:144][974]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.09.14-10.53.06:252][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.09.14-10.53.06:303][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.09.14-10.53.06:367][974]AssetCheck: New page: Asset Save: cartoonbuildings
+[2020.09.14-10.53.06:367][974]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/cartoonbuildings.cartoonbuildings
+[2020.09.14-10.53.09:475][ 71]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/pixelartcity2F5EF5914293D472F63DE4860EA3C307.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/pixelartcity.uasset'
+[2020.09.14-10.53.09:985][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.09.14-10.53.10:076][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.09.14-10.53.10:124][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.09.14-10.53.10:219][ 71]AssetCheck: New page: Asset Save: pixelartcity
+[2020.09.14-10.53.10:219][ 71]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/pixelartcity.pixelartcity
+[2020.09.14-10.53.12:721][146]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/pixelartcity_MatBC62AFAE49CD096066CE1886CE065743.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/pixelartcity_Mat.uasset'
+[2020.09.14-10.53.13:231][146]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.09.14-10.53.13:313][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.09.14-10.53.13:358][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.09.14-10.53.13:448][146]AssetCheck: New page: Asset Save: pixelartcity_Mat
+[2020.09.14-10.53.13:448][146]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/pixelartcity_Mat.pixelartcity_Mat
+[2020.09.14-10.53.15:884][210]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/pixelcity_side126514E94C883A61CDA1AAA4973AB203.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/pixelcity_side.uasset'
+[2020.09.14-10.53.16:353][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.09.14-10.53.16:438][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.09.14-10.53.16:488][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.14-10.53.16:575][210]AssetCheck: New page: Asset Save: pixelcity_side
+[2020.09.14-10.53.16:575][210]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/pixelcity_side.pixelcity_side
+[2020.09.14-10.53.18:622][270]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/pixelcity_side_Mat9E8390D048820C61D3E764A1BBF1E85E.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/pixelcity_side_Mat.uasset'
+[2020.09.14-10.53.19:098][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.09.14-10.53.19:174][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.09.14-10.53.19:218][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.09.14-10.53.19:288][270]AssetCheck: New page: Asset Save: pixelcity_side_Mat
+[2020.09.14-10.53.19:288][270]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/pixelcity_side_Mat.pixelcity_side_Mat
+[2020.09.14-10.53.21:288][327]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/possiblebg6AD3B9E542BF6864247AD596E6F66FFA.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/possiblebg.uasset'
+[2020.09.14-10.53.21:795][327]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.09.14-10.53.21:876][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.09.14-10.53.21:927][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.09.14-10.53.22:006][327]AssetCheck: New page: Asset Save: possiblebg
+[2020.09.14-10.53.22:006][327]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/possiblebg.possiblebg
+[2020.09.14-10.53.24:317][403]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/possiblebg_MatC38B90BA4475A59C89C75D88E292B621.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/possiblebg_Mat.uasset'
+[2020.09.14-10.53.24:320][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrackAssets/CityCircuit/possiblebg_Mat" FILE="C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/possiblebg_Mat.uasset" SILENT=true
+[2020.09.14-10.53.24:328][403]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/possiblebg_Mat2F3B0E094629811FB051C3A604AE3F1E.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/possiblebg_Mat.uasset'
+[2020.09.14-10.53.24:737][403]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.14-10.53.24:737][403]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/possiblebg_Mat.possiblebg_Mat
+[2020.09.14-10.53.24:737][403]LogContentValidation: Display: Validating ObjectRedirector /Game/TrackAssets/CityCircuit/possiblebg_Mat.possiblebg_Mat
+[2020.09.14-10.53.28:487][523]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/vaporbg0714FE464EE31E70B1B9C880D2ECFC9B.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/vaporbg.uasset'
+[2020.09.14-10.53.28:931][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.09.14-10.53.29:016][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.09.14-10.53.29:064][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.09.14-10.53.29:155][523]AssetCheck: New page: Asset Save: vaporbg
+[2020.09.14-10.53.29:155][523]LogContentValidation: Display: Validating Texture2D /Game/TrackAssets/CityCircuit/aidan_mats-pictures/vaporbg.vaporbg
+[2020.09.14-10.53.30:773][572]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/cartoonbuildings_MatDD4082C34C5DE63D6DFE0A92B02EC847.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/cartoonbuildings_Mat.uasset'
+[2020.09.14-10.53.31:200][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.09.14-10.53.31:280][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.09.14-10.53.31:325][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.14-10.53.31:388][572]AssetCheck: New page: Asset Save: cartoonbuildings_Mat
+[2020.09.14-10.53.31:388][572]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/cartoonbuildings_Mat.cartoonbuildings_Mat
+[2020.09.14-10.53.33:618][641]LogSavePackage: Moving 'C:/Users/aidan/Documents/COMP313/drive/Drive/Saved/vaporbg_Mat51325A8944A68FFEF4FA928067E48305.tmp' to 'C:/Users/aidan/Documents/COMP313/drive/Drive/Content/TrackAssets/CityCircuit/aidan_mats-pictures/vaporbg_Mat.uasset'
+[2020.09.14-10.53.34:039][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.09.14-10.53.34:114][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.09.14-10.53.34:157][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.14-10.53.34:216][641]AssetCheck: New page: Asset Save: vaporbg_Mat
+[2020.09.14-10.53.34:216][641]LogContentValidation: Display: Validating Material /Game/TrackAssets/CityCircuit/aidan_mats-pictures/vaporbg_Mat.vaporbg_Mat
