@@ -1,8 +1,8 @@
-﻿Log file open, 09/17/20 13:59:54
+a﻿Log file open, 09/17/20 15:12:32
 LogInit: Display: Running engine for game: Drive
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.203329
+LogStats: Stats thread started at 0.243735
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
