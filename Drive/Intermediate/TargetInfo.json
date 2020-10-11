@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Drive",
+			"Path": "C:\\Users\\aidan\\Documents\\COMP313\\Drive\\Source\\Drive.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DriveEditor",
+			"Path": "C:\\Users\\aidan\\Documents\\COMP313\\Drive\\Source\\DriveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

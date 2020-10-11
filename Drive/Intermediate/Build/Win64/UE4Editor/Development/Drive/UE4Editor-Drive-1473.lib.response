@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Drive-1473.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aidan\Documents\COMP313\Drive\Intermediate\Build\Win64\DriveEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\aidan\Documents\COMP313\Drive\Intermediate\Build\Win64\UE4Editor\Development\Drive\Drive.cpp.obj"
+"C:\Users\aidan\Documents\COMP313\Drive\Intermediate\Build\Win64\UE4Editor\Development\Drive\TireLib.cpp.obj"
+"C:\Users\aidan\Documents\COMP313\Drive\Intermediate\Build\Win64\UE4Editor\Development\Drive\Drive.init.gen.cpp.obj"
+"C:\Users\aidan\Documents\COMP313\Drive\Intermediate\Build\Win64\UE4Editor\Development\Drive\TireLib.gen.cpp.obj"
+"C:\Users\aidan\Documents\COMP313\Drive\Intermediate\Build\Win64\UE4Editor\Development\Drive\Default.rc2.res"
+/OUT:"C:\Users\aidan\Documents\COMP313\Drive\Intermediate\Build\Win64\UE4Editor\Development\Drive\UE4Editor-Drive-1473.lib"
+/INCLUDE:IMPLEMENT_MODULE_Drive

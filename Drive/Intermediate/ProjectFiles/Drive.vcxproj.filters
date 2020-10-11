@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Drive.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{986C38AC-123C-4A4B-B29E-1DC99A009535}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Drive.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DriveEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{00B550F2-C355-4102-9757-A4B65E0A9265}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Drive">
+      <UniqueIdentifier>{CB283245-0D02-4609-9166-8B4253EB1B43}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Drive\Drive.Build.cs">
+      <Filter>Source\Drive</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Drive\Drive.cpp">
+      <Filter>Source\Drive</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drive\Drive.h">
+      <Filter>Source\Drive</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Drive\TireLib.cpp">
+      <Filter>Source\Drive</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Drive\TireLib.h">
+      <Filter>Source\Drive</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
