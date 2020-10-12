@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Drive",
-			"Path": "C:\\Users\\aidan\\Documents\\COMP313\\Drive\\Source\\Drive.Target.cs",
+			"Path": "D:\\Unreal Engine Files\\Drive\\Source\\Drive.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "DriveEditor",
-			"Path": "C:\\Users\\aidan\\Documents\\COMP313\\Drive\\Source\\DriveEditor.Target.cs",
+			"Path": "D:\\Unreal Engine Files\\Drive\\Source\\DriveEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
