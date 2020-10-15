@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"/Users/tylereagle/Documents/University/Fourth Year/Trimester 2/COMP313/Project/drive/Drive/Source/Drive/Drive.Build.cs",
-		"/Users/tylereagle/Documents/University/Fourth Year/Trimester 2/COMP313/Project/drive/Drive/Source/Drive.Target.cs",
-		"/Users/tylereagle/Documents/University/Fourth Year/Trimester 2/COMP313/Project/drive/Drive/Source/DriveEditor.Target.cs"
+		"D:\\Unreal Engine Files\\Drive\\Source\\Drive\\Drive.Build.cs",
+		"D:\\Unreal Engine Files\\Drive\\Source\\Drive.Target.cs",
+		"D:\\Unreal Engine Files\\Drive\\Source\\DriveEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.3"
 }
