@@ -11,6 +11,10 @@ All assets were created for this project
 
 ### Installation & Set Up 
 
+### Video Links
+Gameplay: https://www.youtube.com/watch?v=ymqDIgrxby0&ab_channel=AidanRoberts  
+Code documentation: https://www.youtube.com/watch?v=YGZGtMfi9gc&ab_channel=AidanRoberts  
+
 ### How to Play
 Run executable  
 Press any button to start  
